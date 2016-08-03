@@ -16,4 +16,4 @@ int main() {
 }
 ```
 
-:melon: :apple: :banana: :grapes: :green_apple: :watermelon:
+:tangerine: :lemon: :cherries: :strawberry: :peach: :pear: :melon: :apple: :banana: :grapes: :green_apple: :watermelon:
