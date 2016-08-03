@@ -16,4 +16,4 @@ int main() {
 }
 ```
 
-:melon: :apple: :banana: :grapes: :greenapple: :watermelon:
+:melon: :apple: :banana: :grapes: :green_apple: :watermelon:
