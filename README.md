@@ -3,8 +3,6 @@ My first repository here
 
 I like C++ and coffee. :coffee:
 
-:tangerine: :lemon: :cherries: :strawberry: :peach: :pear:
-
 ```C++
 #include <cstdio>
 
