@@ -3,7 +3,7 @@ My first repository here
 
 I like C++ and coffee.
 
-```
+```C++
 #include <cstdio>
 
 int main() {
