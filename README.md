@@ -8,7 +8,7 @@ I like C++ and coffee. :coffee:
 
 int main() {
 
-   printf("\n Hello GitHub!\n");
+   printf("\n Hello World!\n");
    
    return 0;
 }
